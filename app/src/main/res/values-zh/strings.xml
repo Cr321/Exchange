@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">汇率转换</string>
+    <string name="CNY">人民币</string>
+    <string name="USD">美元</string>
+    <string name="JPY">日元</string>
+    <string name="EUR">欧元</string>
+    <string name="GBP">英镑</string>
+    <string name="KRW">韩元</string>
+    <string name="HKD">港币</string>
+    <string name="AUD">澳大利亚元</string>
+    <string name="CAD">加拿大元</string>
+    <string name="MOP">澳门元</string>
+    <string name="SEK">瑞典克朗</string>
+    <string name="THB">泰国铢</string>
+    <string name="SGD">新加坡元</string>
+    <string name="TWD">新台币</string>
+    <string name="VND">越南盾</string>
+    <string name="NZD">新西兰元</string>
+    <string name="ISK">冰岛克朗</string>
+    <string name="BRL">巴西雷亚尔</string>
+    <string name="RUB">俄罗斯卢布</string>
+    <string name="PHP">菲律宾比索</string>
+    <string name="KHR">柬埔寨瑞尔</string>
+    <string name="LAK">老挝基普</string>
+    <string name="MXN">墨西哥元</string>
+    <string name="NOK">挪威克朗</string>
+    <string name="CLP">智利比索</string>
+    <string name="INR">印度卢比</string>
+</resources>

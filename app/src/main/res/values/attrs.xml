@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="EditView">
+        <attr name="currency_code" format="string" />
+        <attr name="edit_number_hint" format="integer" />
+    </declare-styleable>
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Exchange</string>
+    <string name="CNY">CNY</string>
+    <string name="USD">USD</string>
+    <string name="JPY">JPY</string>
+    <string name="EUR">EUR</string>
+    <string name="GBP">GBP</string>
+    <string name="KRW">KRW</string>
+    <string name="HKD">HKD</string>
+    <string name="AUD">AUD</string>
+    <string name="CAD">CAD</string>
+    <string name="MOP">MOP</string>
+    <string name="SEK">SEK</string>
+    <string name="THB">THB</string>
+    <string name="SGD">SGD</string>
+    <string name="TWD">TWD</string>
+    <string name="VND">VND</string>
+    <string name="NZD">NZD</string>
+    <string name="ISK">ISK</string>
+    <string name="BRL">BRL</string>
+    <string name="RUB">RUB</string>
+    <string name="PHP">PHP</string>
+    <string name="KHR">KHR</string>
+    <string name="LAK">LAK</string>
+    <string name="MXN">MXN</string>
+    <string name="NOK">NOK</string>
+    <string name="CLP">CLP</string>
+    <string name="INR">INR</string>
+</resources>
